@@ -1,5 +1,5 @@
 <a href="https://github-profile-trophy.vercel.app/?username=r1&rank=SS,S,AAA">
-  <img src="https://github-profile-trophy.vercel.app/?username=r1&rank=SS,S,AAA"/>
+  <img width="750" src="https://github-profile-trophy.vercel.app/?username=r1&rank=SS,S,AAA"/>
 </a>
 
 ---
